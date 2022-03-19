@@ -1,1 +1,2 @@
 This is an A file
+Appending another line of statement
